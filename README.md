@@ -16,8 +16,8 @@ Hi there! I'm Saurabh, a computer science student with a passion for programming
 - [Project name 2](Link to project)
 -->
 ## Contact
-- [LinkedIn]([https://www.linkedin.com/in/saurabh-tanwar-3b8823169])
-- [GitHub]([https://github.com/saurabhsinghtanwar])
+- [LinkedIn](https://www.linkedin.com/in/saurabh-tanwar-3b8823169)
+- [GitHub](https://github.com/saurabhsinghtanwar)
 
 Feel free to reach out to me if you want to collaborate on a project or just chat!
 
