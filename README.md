@@ -5,16 +5,16 @@ Hi there! I'm Saurabh, a computer science student with a passion for programming
 ## Education
 - Currently pursuing a Master's degree in Computer Science at Banaras Hindu University, Varanasi.
 -->
-## Skills
+## Skills ⚡
 - Strong foundation in programming languages such as Python, Java, and C++
 - Proficient in AI, machine learning and deep learning techniques
-- Experience in back-end development using technologies like Node.js, Django, and Ruby on Rails
+- Experience in back-end development using technologies like Node.js, Django, and Flask
 - Passion for video games and an understanding of game development
 
-## Projects
+## Projects 🔭
 - [Tweet Generator](https://github.com/ssinghtanwar/Tweet-Generator)
 
-## Contact
+## Contact 📫
 - [GitHub](https://github.com/saurabhsinghtanwar)
 - [Twitter](https://twitter.com/saurabh_singh_t)
 
