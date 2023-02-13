@@ -15,6 +15,10 @@ Hi there! I'm Saurabh, a computer science student with a passion for programming
 - [Tweet Generator](https://github.com/ssinghtanwar/Tweet-Generator)
 - [Image Search Engine](https://github.com/ssinghtanwar/Image-Search-Engine)
 
+## Project Directories😄
+- [GitHub](https://github.com/saurabhsinghtanwar)
+- [Hugging-Face](https://huggingface.co/saurabhsinghtanwar)
+
 ## Contact 📫
 - [GitHub](https://github.com/saurabhsinghtanwar)
 - [Twitter](https://twitter.com/saurabh_singh_t)
